@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "b5ba",
+      "username": "dasdaa",
+      "email": "sdsdsdsd@s",
+      "password": "asdadaddddddddd1",
+      "isactive": true
+    }
+  ],
+  "eventos": [
+    {
+      "imageUrl": "https://www.duoc.cl/wp-content/uploads/2024/03/maipu-1.jpg",
+      "nombre": "Conversatorio",
+      "fecha": "12/06/2024",
+      "lugar": "Centro de Extensión Duoc UC Edificio Cousiño, Valparaíso",
+      "descripcion": "Para abordar los desafíos que implica la inteligencia artificial (IA) y explorar las oportunidades que presenta, el Centro de Extensión de Duoc UC Sede Valparaíso y el Centro de Estudios Estratégicos de la Armada de Chile, te invitan a una charla dedicada a este gran tema."
+    }
+  ]
+}
